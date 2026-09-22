@@ -4,3 +4,9 @@ Nombre integrantes:
 Bautista zeballos - bautistazeballos-maker
 Lautaro Olivera - Lautaro2jz
 Luna Matías - matiluna22
+
+
+-------------------------------------------------
+Cambios de mati:
+
+-------------------------------------------------
