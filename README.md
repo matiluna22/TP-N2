@@ -1,5 +1,5 @@
 TRABAJO PRÁCTICO N°2
-    Trabajo practico número 2 de UDI.
+    Trabajo practico número 2 de UDI. Trabajo práctico realizado el día 22/09/2026
 Nombre integrantes:
 Bautista zeballos - bautistazeballos-maker
 Lautaro Olivera - Lautaro2jz
